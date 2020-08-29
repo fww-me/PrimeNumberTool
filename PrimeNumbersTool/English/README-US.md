@@ -10,7 +10,6 @@
 ### 2.The prime table output to a file.
 #### You can choose to save the file path and file name ,and save it to the TXT document.
 #### You can take it a table of prime number sent to your friend
-## Somesings
+## Somethings
 ### This is the version 1.2, the future will continue to optimize, please put forward opinion!
 ### Has two versions, the English version and Chinese version, please make your own choice!
-
